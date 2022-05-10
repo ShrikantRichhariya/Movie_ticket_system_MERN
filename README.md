@@ -42,7 +42,11 @@ movie ticket booking system uses a number of open source projects to work proper
 payment is connected to stripe payment if booking fails it redirect to booking history
 if success it redirect to eticket page
 
+USER ACCESS SCREENSHOTS
+
+![USER](https://user-images.githubusercontent.com/101676970/167667978-a3b365aa-2833-4a79-b066-2a6e4fa482f2.gif)
 
 
 ADMIN ACCESS SCREENSHOTS
+
 ![admin gif](https://user-images.githubusercontent.com/101676970/167615323-1f63e826-e0a6-4f89-8e5d-dc337b025e65.gif)
