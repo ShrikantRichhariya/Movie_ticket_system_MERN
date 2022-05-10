@@ -50,3 +50,12 @@ USER ACCESS SCREENSHOTS
 ADMIN ACCESS SCREENSHOTS
 
 ![admin gif](https://user-images.githubusercontent.com/101676970/167615323-1f63e826-e0a6-4f89-8e5d-dc337b025e65.gif)
+
+
+NODE SCREENSHOT
+![1node](https://user-images.githubusercontent.com/101676970/167669390-2d77e8a4-8015-481e-acd6-850cd4f4b2c4.png)
+![2node](https://user-images.githubusercontent.com/101676970/167669432-af0e4e08-adab-4d20-bc35-a3597f69d9ad.png)
+![3node](https://user-images.githubusercontent.com/101676970/167669462-4028544b-500b-4752-baff-c7a2f90cc202.png)
+
+
+
