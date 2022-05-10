@@ -43,4 +43,6 @@ payment is connected to stripe payment if booking fails it redirect to booking h
 if success it redirect to eticket page
 
 
+
+ADMIN ACCESS SCREENSHOTS
 ![admin gif](https://user-images.githubusercontent.com/101676970/167615323-1f63e826-e0a6-4f89-8e5d-dc337b025e65.gif)
